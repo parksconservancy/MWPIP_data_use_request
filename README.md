@@ -8,9 +8,10 @@ This repository contains everything you need to decide if the data is suitable f
 
   1 Sample dataset
   
-  2 Reach data use request form
-  
+  2 Research data use request form
+
   3 MWPIP data use policy
+  
   
 ### Background
 
